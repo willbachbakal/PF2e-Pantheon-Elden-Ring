@@ -1,0 +1,11 @@
+2026/11/21-11:27:36.468 1abc Recovering log #34
+2026/11/21-11:27:36.470 1abc Level-0 table #36: started
+2026/11/21-11:27:36.481 1abc Level-0 table #36: 258567 bytes OK
+2026/11/21-11:27:36.487 1abc Delete type=0 #34
+2026/11/21-11:27:36.487 1abc Delete type=3 #33
+2026/11/21-12:13:35.720 3bdc Compacting 1@0 + 1@1 files
+2026/11/21-12:13:35.735 3bdc Generated table #38@0: 47 keys, 71233 bytes
+2026/11/21-12:13:35.735 3bdc Compacted 1@0 + 1@1 files => 71233 bytes
+2026/11/21-12:13:35.737 3bdc compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/11/21-12:13:35.738 3bdc Delete type=2 #16
+2026/11/21-12:13:35.739 3bdc Delete type=2 #36
